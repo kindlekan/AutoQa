@@ -1,0 +1,5 @@
+{
+  "name": "AutoQA Dashboard",
+  "description": "A subjective QA auditor for customer support teams powered by Gemini. Analyze sentiment, audit transcripts, and generate executive summaries automatically.",
+  "requestFramePermissions": []
+}
